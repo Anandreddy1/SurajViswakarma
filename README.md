@@ -1,8 +1,8 @@
-##Hi there 👋, I'm Suraj 🤵
-####I live on Odisha, India and Study <b>KALINGA UNIVERSITY</B>
+## Hi there 👋, I'm Suraj 🤵
+#### I live on Odisha, India and Study <b>KALINGA UNIVERSITY</B>
 -------------------------------------------------------------------------------------------------------
-##I am a Budding Data Scientist...!!
-##Love to code R, SQL and Python immensly....!!
+## I am a Budding Data Scientist...!!
+## Love to code R, SQL and Python immensly....!!
 
 Here are my current profile
 
