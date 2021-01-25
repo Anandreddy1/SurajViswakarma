@@ -1,7 +1,10 @@
 ## Hi there 👋, I'm Suraj 🤵
 #### I live on Odisha, India and Study <b>KALINGA UNIVERSITY</B>
+-------------------------------------------------------------------------------------------------------
+## I am a Budding Data Scientist...!!
+## Love to code R, SQL and Python immensly....!!
 
-Here are some ideas to get you started:
+Here are my current profile
 
 - 🔭 I’m currently working on ... Seaborn 
 - 🌱 I’m currently learning ... Python for Data Science 
