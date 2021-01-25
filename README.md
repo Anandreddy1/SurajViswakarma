@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Suraj 🤵
-#### I live on Odisha, India and Study <b>KALINGA UNIVERSITY</B>
+#### I live on Odisha, India and Study at <b> KALINGA UNIVERSITY </b>
 -------------------------------------------------------------------------------------------------------
 ## I am a Budding Data Scientist...!!
 ## Love to code R, SQL and Python immensly....!!
