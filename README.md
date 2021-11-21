@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Suraj 🤵
-#### I live on Odisha, India and work at <b> SpiceJet </b>
+#### I live in Bangalore Karnataka and work at <b> SpiceJet </b>
 -------------------------------------------------------------------------------------------------------
 ## I am a Data Engineer...!!
 ## Love to code R, SQL and Python immensly....!!
